@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### Hi there 👋<h2> I'm Guillermo</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -22,7 +20,7 @@
 
 
 
-- 💻 &nbsp;  Java |Node js.|  MySQL
+- 💻 &nbsp;  Java |Pring Framework, Spring Security|  MySQL
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
 
@@ -40,7 +38,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask | React | Angular
+- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask | React(little more) | Angular
 
 <hr>
 
