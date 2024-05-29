@@ -20,7 +20,7 @@
 
 
 
-- 💻 &nbsp;  Java |Pring Framework, Spring Security|  MySQL
+- 💻 &nbsp;  Java |Spring Framework, Spring Security|  MySQL
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
 
